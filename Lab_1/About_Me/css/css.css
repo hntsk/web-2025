@@ -1,0 +1,21 @@
+.first{
+    display: flex;
+}
+.n2{
+    display: flex;
+    justify-content: center;
+    color: #264c92;  
+}
+.left{
+    margin-top: 30px;
+    margin-left: 50px;
+    width: auto;
+    height: 600px;
+}
+.right{
+    margin-top: 30px;
+    font-size: 30px;
+    color: #264c92;
+    font-style: italic;
+    padding-left: 200px;
+}
